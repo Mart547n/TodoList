@@ -1,0 +1,27 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "A Simple To Do List Made With Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mart547n/TodoList.git"
+  },
+  "keywords": [
+    "Electron",
+    "JS",
+    "TODO"
+  ],
+  "author": "Martin Sig Nørbjerg",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Mart547n/TodoList/issues"
+  },
+  "homepage": "https://github.com/Mart547n/TodoList#readme",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
+}
